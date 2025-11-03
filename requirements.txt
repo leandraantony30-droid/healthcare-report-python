@@ -1,0 +1,5 @@
+# Core libraries for data analysis and Excel export
+pandas
+numpy
+xlsxwriter
+openpyxl
