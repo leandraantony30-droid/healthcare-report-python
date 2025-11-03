@@ -1,0 +1,38 @@
+# 🧩 PYTHON BUILD & CACHE FILES
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# 🧮 VIRTUAL ENVIRONMENTS
+venv/
+env/
+.venv/
+ENV/
+
+# ⚙️ JUPYTER NOTEBOOK CHECKPOINTS (if added later)
+.ipynb_checkpoints/
+
+# 💾 DATA FILES (keep large/private data out of GitHub)
+data/*.xlsx
+data/*.csv
+data/*.xls
+*.bak
+*.tmp
+
+# 🖼️ OS & EDITOR FILES
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ⚗️ IDE/CONFIG FILES
+.vscode/
+.idea/
+*.code-workspace
+
+# 🚀 OUTPUT FILES
+*.zip
+*.rar
+*.7z
